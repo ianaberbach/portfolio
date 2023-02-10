@@ -35,10 +35,10 @@ html {
     display: none;
 }
 
-body{
+body {
     font-family: 'Poppins', sans-serif;
     background: var(--color-bg);
-    color: var(var(--color-white));
+    color: var(--color-white);
     line-height: 1.7;
     background-image: url(../src/assets/bg-texture.png);
 }
@@ -59,6 +59,7 @@ h1 {
 
 section {
     margin-top: 8rem;
+    height: 100vh;
 }
 
 section > h2, section > h5 {
